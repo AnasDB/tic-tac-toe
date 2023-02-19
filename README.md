@@ -8,8 +8,8 @@ A python3 tic-tac-toe game
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AnasDB/tic-tac-toe?style=for-the-badge)
 ![repo size](https://img.shields.io/github/repo-size/AnasDB/tic-tac-toe?style=for-the-badge)
 
+![code](https://user-images.githubusercontent.com/125673909/219948428-8adc1b2c-6db1-440b-9721-3ba6a944215d.png)
 
-![image](https://user-images.githubusercontent.com/106782577/210120122-6b1807a0-55ba-4756-b397-b7a7050b7c3d.png)
 
 
 # Installation :
